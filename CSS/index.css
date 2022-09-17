@@ -1,0 +1,10 @@
+@import '/style/normalize.css';
+@import 'fonts.css';
+@import '/style/default.css';
+@import '/style/header.css';
+@import '/style/navigation.css';
+@import 'country.css';
+@import '/style/banner.css';
+@import '/style/timer.css';
+@import '/style/goods.css';
+@import 'product.css';
